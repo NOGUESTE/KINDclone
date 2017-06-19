@@ -1,0 +1,281 @@
+
+
+
+.wrapper-black{
+	width: 1350px;
+	height: 50px;
+	background-color: black;
+
+
+}
+
+header ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+header ul li{
+	float: left;
+	width: 16.66667%;
+	margin: 0;
+	padding: 0px;
+}
+
+header a{
+	color: white;
+	font-size: 1em;
+	padding: 15px;
+	text-align: center;
+}
+
+header a:hover{
+	color: #A6A6A6;
+
+}
+
+.feature1{
+	margin-left: 300px;
+
+}
+
+.wrapper-grey{
+	width: 1350px;
+	font-size: 13px;
+	background-color: rgb(246, 246, 246);
+	color: #4e4e4e;
+}
+
+
+.container ul li{
+	float: left;
+	width: 12%;
+	margin: 0;
+	padding: 0;
+}
+
+
+.container a{
+	margin-top: 60px;
+	font-size: 1.25em;
+	padding-right: 15px;
+	text-align: center;
+	color: black;
+}
+
+
+
+.card{
+	margin-top: 80px;
+	padding-right: 150px;
+
+}
+
+.card a{
+	color: black;
+	font-size: 15px;
+
+}
+
+
+
+
+
+
+
+
+/*.navbar-nav{
+height: 4em;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: gray;
+  background-color: transparent;
+}
+
+.menu a{
+	color: #000;
+}
+
+.menu{
+	text-align: center;
+	font-size: 12px;
+}*/
+
+
+
+
+
+
+h1{
+	text-align: center;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-bottom: 20px;
+	padding-top: 80px;
+	font-size: 60px;
+
+
+}
+
+
+.container2{
+	background-color: rgb(255, 255,255);
+	padding-bottom: 90px;
+	padding-top: 0px;
+	padding-right: 80px;
+	text-align: left;
+	font-size: 20px;
+	
+}
+
+
+
+
+ul p{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	width:100%;
+	background-color: black;
+	color: white;
+}
+
+
+.container3{
+	background-color: rgb(255, 255,255);
+	padding-bottom: 40px;
+	padding-top: 0px;
+	padding-right: 40px;
+	text-align: left;
+	font-size: 20px;
+	padding-left: 100px;
+	
+}
+
+
+
+
+.container4{
+	background-color: rgb(255, 255,255);
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 80px;
+	text-align: left;
+	font-size: 20px;
+	
+}
+
+
+.container5{
+	background-color: rgb(242, 242, 242);
+	padding-bottom: 70px;
+	padding-top: 70px;
+	margin-bottom: 150px;
+
+}
+
+
+.container5 p a{
+	background-color: black;
+	border-color: black;
+	color: white;
+	padding-right: 30px;
+	padding-left: 30px;
+
+
+}
+
+.container5 p a:hover{
+color: black;
+background-color: rgb(242, 242, 242);
+}
+
+
+
+.container6{
+	text-align: left;
+	padding-right: 150px;
+	padding-left: 100px;
+	padding-bottom: 100px;
+	padding-top: 100px;
+	font-size: 17px;
+	background-color: white;
+
+}
+
+.container6 h1{
+	text-align: center;
+	font-size: 50px;
+}
+
+.container7{
+	background-color: rgb(242, 242, 242);
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-left: 700px;
+
+
+}
+.container7 p a{
+	background-color: rgb(242, 242, 242);
+	border-color: black;
+	color: black;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.container7 p a:hover{
+color: white;
+background-color: black;
+}
+
+.footer{
+	padding-top: 50px;
+	padding-left: 60px;
+	padding-right: 40px;
+	background-color: black;
+	color: white;
+
+}
+
+.footer a{
+	color: white;
+}
+
+
+.footer a:hover{
+	color: rgb(242, 242, 242);
+}
+
+.form-control{
+	background-color: black;
+	border-color: black;
+	color: white;
+}
+
+#seperator{
+color: black;
+}
+
+
+
+.footer .fa{
+	padding-left: 15px;
+	width: 30px;
+	height: 30px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	border: 2px solid white;
+
+
+}
+
+
+
+.fa:hover{
+	background-color: white;
+	color: black;
+}
